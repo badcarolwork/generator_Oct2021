@@ -1,0 +1,5 @@
+node_modules
+.env
+template-generator-35e82-be49740e7c14.json
+gdrive_auth.json
+gsc_key.json
